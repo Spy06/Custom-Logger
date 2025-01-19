@@ -1,5 +1,6 @@
 using System;
 
+//Tes
 namespace CustomLogger
 {
     public static class Logger
