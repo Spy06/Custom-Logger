@@ -1,6 +1,6 @@
 using System;
 
-//Tes
+//Hohoho
 namespace CustomLogger
 {
     public static class Logger
